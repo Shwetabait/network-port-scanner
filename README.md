@@ -4,7 +4,7 @@
 This project is a simple **Network Port Scanner built using Python**. 
 The tool scans a target system to identify **open TCP ports** within a specified range.
 
-Port scanning is a common technique used in **cybersecurity and penetration testing** to discover running services on a network host.
+Port scanning is a common technique in cybersecurity and penetration testing to identify running services on a network host.
 
 ---
 
